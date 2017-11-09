@@ -1,0 +1,109 @@
+#header 
+{
+    background-color:#483D8B;
+    color:white;
+    text-align:center;
+    padding:0.6px;
+    font-size:100%;
+    text-shadow: 2px 2px red;
+    position: fixed;
+    top:0;
+    right:0;
+    left:0;
+    height:80px;
+}
+
+#navleft
+{
+    line-height:30px;
+    background-color:#90EE90;
+    height:543px;
+    width:130px;
+    float:left;
+    padding:5px;
+    position: fixed;
+    left:0;
+    top:16.15%;
+    bottom:3%;      
+}
+
+#section 
+{
+    color: red;
+    width:950px;
+    padding:1px;
+    height:550px;
+    background-color:#D1FEA6;  
+    position: fixed;
+    top: 16.15%;
+    left:10%;
+    right:20; 
+    background-image:url("priyanka87.jpg");    
+    background-size: 1002px 550px;
+}
+
+#navright
+{
+    line-height:30px;
+    background-color:#90EE90;
+    height:540px;
+    width:270px;
+    float:right;
+    padding:5px;
+    color:green;
+    position:fixed;
+    right:0;
+    top:16.15%;
+ }
+
+#footer
+{
+    background-color:#483D8B;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    position:fixed;	
+    bottom:0;
+    right:0;
+    left:0;
+}
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 264.74px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #98bf21;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #7A991A;
+}
+}
+
+
+
+
+
+
+
